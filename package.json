@@ -1,9 +1,9 @@
 {
-  "name": "prct06-objects-solid",
+  "name": "prct08-filesystem",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "fileGestor.js",
   "scripts": {
-    "dev": "tsc-watch --onSuccess \"node dist/ejercicio-2/index.js\"",
+    "dev": "tsc-watch --onSuccess \"node dist/fileGestor.js\"",
     "doc": "typedoc",
     "test": "vitest run",
     "coverage": "vitest run --coverage --coverage.include 'src/**/*'"
